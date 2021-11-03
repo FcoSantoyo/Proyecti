@@ -1,2 +1,2 @@
-# Proyecti
-es el control de versiones de un proyecto
+# Proyecto.
+Este es el control de versiones de un proyecto.
